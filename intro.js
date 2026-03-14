@@ -1,4 +1,3 @@
-// Introduction
 const name = "Claude";
 const age = 2;
 const favouriteLanguage = "JavaScript";
