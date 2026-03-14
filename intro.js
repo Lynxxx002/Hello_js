@@ -1,5 +1,5 @@
-const name = "Claude";
-const age = 2;
+const name = "Bekee Emmanuel";
+const age = 22;
 const favouriteLanguage = "JavaScript";
 
 console.log(`Name: ${name}`);
